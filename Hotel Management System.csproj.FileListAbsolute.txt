@@ -1,0 +1,6 @@
+C:\Users\Rohit\source\repos\Hotel Management System\Hotel Management System\bin\Hotel Management System.dll.config
+C:\Users\Rohit\source\repos\Hotel Management System\Hotel Management System\bin\Hotel Management System.dll
+C:\Users\Rohit\source\repos\Hotel Management System\Hotel Management System\bin\Hotel Management System.pdb
+C:\Users\Rohit\source\repos\Hotel Management System\Hotel Management System\obj\Release\Hotel Management System.csproj.CoreCompileInputs.cache
+C:\Users\Rohit\source\repos\Hotel Management System\Hotel Management System\obj\Release\Hotel Management System.dll
+C:\Users\Rohit\source\repos\Hotel Management System\Hotel Management System\obj\Release\Hotel Management System.pdb

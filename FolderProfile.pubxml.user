@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Rohit\source\repos\Hotel Management System</_PublishTargetUrl>
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAzrO6zWUbJEq2UQbI2XXv2QAAAAACAAAAAAAQZgAAAAEAACAAAAAGasWi6jRsiCtrBdEjLzB/W97ZZ3y5vQk8WMihCxcvTAAAAAAOgAAAAAIAACAAAAAMtiJ0RJM9/QG6ZcxhLHLuSnrXnJw0NZ8mPw7K3a+5eSAAAADehGRmUQWDtTORzj9WFKR61f4nFB3x0Vv3j9IbxETpmEAAAAAVfYC3GAO7LpqmkZi0ONb+F3rBHaPk+oCQz753BhKuu9UAqbEFg7r9JnzIAIS70+Z8MpfqgoR6CzulSueCY+9V</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="about.aspx">
+      <publishTime>02/10/2021 16:04:48</publishTime>
+    </File>
+    <File Include="App_Data/Contact.mdf">
+      <publishTime>03/10/2021 20:55:48</publishTime>
+    </File>
+    <File Include="App_Data/Contact_log.ldf">
+      <publishTime>03/10/2021 20:55:48</publishTime>
+    </File>
+    <File Include="App_Data/Database2mdf.mdf">
+      <publishTime>03/10/2021 20:55:53</publishTime>
+    </File>
+    <File Include="App_Data/Database2mdf_log.ldf">
+      <publishTime>03/10/2021 20:55:53</publishTime>
+    </File>
+    <File Include="App_Data/Login.mdf">
+      <publishTime>03/10/2021 18:56:33</publishTime>
+    </File>
+    <File Include="App_Data/Login_log.ldf">
+      <publishTime>03/10/2021 18:56:33</publishTime>
+    </File>
+    <File Include="App_Data/RAvailibility.mdf">
+      <publishTime>03/10/2021 20:55:57</publishTime>
+    </File>
+    <File Include="App_Data/RAvailibility_log.ldf">
+      <publishTime>03/10/2021 20:55:58</publishTime>
+    </File>
+    <File Include="bin/Hotel Management System.dll">
+      <publishTime>10/08/2021 11:34:46</publishTime>
+    </File>
+    <File Include="bin/Hotel Management System.pdb">
+      <publishTime>10/08/2021 11:34:46</publishTime>
+    </File>
+    <File Include="Booking.aspx">
+      <publishTime>01/10/2021 08:26:07</publishTime>
+    </File>
+    <File Include="Buy.aspx">
+      <publishTime>03/10/2021 17:34:58</publishTime>
+    </File>
+    <File Include="Buy.Master">
+      <publishTime>09/29/2021 19:23:51</publishTime>
+    </File>
+    <File Include="Contact.aspx">
+      <publishTime>09/26/2021 10:29:24</publishTime>
+    </File>
+    <File Include="Failuer.aspx">
+      <publishTime>09/29/2021 20:33:17</publishTime>
+    </File>
+    <File Include="ForgotPassword.aspx">
+      <publishTime>03/10/2021 20:43:34</publishTime>
+    </File>
+    <File Include="grid.aspx">
+      <publishTime>09/25/2021 12:36:43</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>03/10/2021 18:13:21</publishTime>
+    </File>
+    <File Include="Image/background.jpg">
+      <publishTime>08/29/2021 19:30:14</publishTime>
+    </File>
+    <File Include="Image/Cafe.jpg">
+      <publishTime>01/10/2021 09:18:12</publishTime>
+    </File>
+    <File Include="Image/facebook %281%29.jpg">
+      <publishTime>09/19/2021 21:25:57</publishTime>
+    </File>
+    <File Include="Image/facebook.jpg">
+      <publishTime>09/19/2021 21:16:05</publishTime>
+    </File>
+    <File Include="Image/insta %281%29.jpg">
+      <publishTime>09/19/2021 21:29:32</publishTime>
+    </File>
+    <File Include="Image/Kidclub.jpg">
+      <publishTime>01/10/2021 09:42:38</publishTime>
+    </File>
+    <File Include="Image/Lounge.jpg">
+      <publishTime>01/10/2021 09:37:59</publishTime>
+    </File>
+    <File Include="Image/Privatepool.jpg">
+      <publishTime>01/10/2021 09:32:36</publishTime>
+    </File>
+    <File Include="Image/Room.png">
+      <publishTime>04/09/2021 18:24:07</publishTime>
+    </File>
+    <File Include="Image/royal.png">
+      <publishTime>03/09/2021 20:29:49</publishTime>
+    </File>
+    <File Include="Image/security.jpg">
+      <publishTime>01/10/2021 09:05:18</publishTime>
+    </File>
+    <File Include="Image/Spa.jpg">
+      <publishTime>01/10/2021 09:26:07</publishTime>
+    </File>
+    <File Include="LoginForm1.aspx">
+      <publishTime>03/10/2021 20:01:03</publishTime>
+    </File>
+    <File Include="payment.aspx">
+      <publishTime>03/10/2021 13:32:54</publishTime>
+    </File>
+    <File Include="Registration.aspx">
+      <publishTime>03/10/2021 20:01:45</publishTime>
+    </File>
+    <File Include="resetlink.aspx">
+      <publishTime>03/10/2021 20:48:04</publishTime>
+    </File>
+    <File Include="roomtable.aspx">
+      <publishTime>09/14/2021 21:28:05</publishTime>
+    </File>
+    <File Include="Service.aspx">
+      <publishTime>01/10/2021 20:51:59</publishTime>
+    </File>
+    <File Include="SuccessPayment.aspx">
+      <publishTime>03/10/2021 17:45:36</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/10/2021 11:33:43</publishTime>
+    </File>
+    <File Include="Web1.config">
+      <publishTime>09/13/2021 18:48:23</publishTime>
+    </File>
+    <File Include="Web2.config">
+      <publishTime>09/21/2021 18:34:34</publishTime>
+    </File>
+    <File Include="Web3.config">
+      <publishTime>09/25/2021 12:45:40</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
